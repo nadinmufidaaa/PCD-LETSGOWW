@@ -219,7 +219,7 @@ PCD-LETSGOWW/
 │
 ├── p1.ipynb
 ├── p2.ipynb
-├── 3.ipynb
+├── p3.ipynb
 │
 ├── hasil_ekstraksi_1.csv
 ├── hasil_ekstraksi_2.csv
